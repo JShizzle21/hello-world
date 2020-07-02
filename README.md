@@ -1,2 +1,3 @@
 # hello-world
-hello world repository to test different features
+
+Hi, my name is Johnny McMurray. I am doing this repository to test things.
